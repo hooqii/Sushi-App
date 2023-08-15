@@ -1,6 +1,11 @@
 # sushi_app
 
-A new Flutter project.
+A Flutter app inspired by the design from [Dribbble](https://dribbble.com/shots/18548602-Sushiman-Food-App) and featuring illustrations by [macrovector](https://www.freepik.com/free-vector/asia-food-icon-set_1531439.htm#query=japanese%20food&position=5&from_view=search) on Freepik.
+
+## Credits
+
+- **Design Inspiration**: This app's design is based on the work by [Dribbble user](https://dribbble.com/) and can be found [here](https://dribbble.com/shots/18548602-Sushiman-Food-App).
+- **Illustrations**: The illustrations used in this app are created by [macrovector](https://www.freepik.com/free-vector/asia-food-icon-set_1531439.htm#query=japanese%20food&position=5&from_view=search) and are available on Freepik.
 
 ## Getting Started
 
@@ -14,3 +19,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Happy coding!
