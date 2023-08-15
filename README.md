@@ -1,5 +1,7 @@
 # sushi_app
 
+This app develop by [HooQii] follow me on [Instagram](https://www.instagram.com/hoo_qii/)
+
 A Flutter app inspired by the design from [Dribbble](https://dribbble.com/shots/18548602-Sushiman-Food-App) and featuring illustrations by [macrovector](https://www.freepik.com/free-vector/asia-food-icon-set_1531439.htm#query=japanese%20food&position=5&from_view=search) on Freepik.
 
 ## Credits
